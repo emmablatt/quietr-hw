@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=connections.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=connections.SchDoc|FileName=power.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=connections.SchDoc|FileName=sensor_mic.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=connections.SchDoc|FileName=sensor_speaker.SchDoc|SheetNumber=2
